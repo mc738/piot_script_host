@@ -1,0 +1,6 @@
+[package]
+name = "piot_script_host"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
